@@ -1,4 +1,4 @@
-![Screenshot 2025-05-28 205322](https://github.com/user-attachments/assets/06dde452-7509-49ad-9d4f-764f3d1646d0)# ✋ Finger Count (OpenCV + MediaPipe)
+# ✋ Finger Count (OpenCV + MediaPipe)
 
 This is my **first OpenCV project**, where I built a simple real-time **finger counting application** using OpenCV and MediaPipe. The program captures video from a webcam, detects one hand, and counts the number of fingers raised.
 
