@@ -45,7 +45,7 @@ This is my **first OpenCV project**, where I built a simple real-time **finger c
 
 ## 📷 Screenshot
 
-![Finger Count Demo](https://via.placeholder.com/600x400?text=Demo+Screenshot)
+![Finger Count Demo]("C:\Users\hp\OneDrive\Pictures\Screenshots\u.png")
 
 > Replace with an actual screenshot of your app if available.
 
